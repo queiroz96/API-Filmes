@@ -55,7 +55,7 @@ export default function App(){
 const styles = StyleSheet.create({
   container:{
     flex:1,
-    marginTop:60
+    marginTop:61
    
   }
 })
